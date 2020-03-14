@@ -1,0 +1,31 @@
+{
+    "deltaTime": 20,
+    "period": 1,
+    "timetable": [
+        {
+            "from": 540,
+            "to": 600,
+            "command": 11
+        },
+        {
+            "from": 670,
+            "to": 720,
+            "command": 21
+        },
+        {
+            "from": 780,
+            "to": 900,
+            "command": 32
+        },
+        {
+            "from": 1020,
+            "to": 1380,
+            "command": 31
+        },
+        {
+            "from": 840,
+            "to": 900,
+            "command": 11
+        }
+    ]
+}
